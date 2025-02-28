@@ -1,5 +1,4 @@
 # fronted_prueba_quo
-# Quo Digital Banking - Frontend
 
 ![Quo Digital Banking](https://via.placeholder.com/800x200?text=Quo+Digital+Banking)
 

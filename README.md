@@ -169,24 +169,6 @@ La aplicación utiliza autenticación JWT:
    - Componente `RequireAuth` verifica la autenticación
    - Redirecciona al login si el usuario no está autenticado
 
-## 🎨 Personalización del tema
-
-El tema visual de la aplicación se configura en `src/styles/theme.js`. Puedes modificar:
-
-- Colores primarios y secundarios
-- Tipografía
-- Radios de bordes
-- Sombras y elevaciones
-- Estilos de componentes específicos
-
-## 📊 Visualización de datos(no funciona del todo)
-
-La aplicación utiliza Chart.js para gráficos:
-
-- Gráficos circulares para la distribución de ingresos/gastos
-- Gráficos de barras para gastos por categoría
-- Compatible con React-ChartJS-2
-
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia [MIT](LICENSE).

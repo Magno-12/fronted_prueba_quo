@@ -1,7 +1,5 @@
 # fronted_prueba_quo
 
-![Quo Digital Banking](https://via.placeholder.com/800x200?text=Quo+Digital+Banking)
-
 ## 📋 Descripción
 
 Quo Digital Banking es una aplicación web que simula una plataforma de banca digital, permitiendo a los usuarios gestionar sus cuentas bancarias, visualizar transacciones, analizar gastos y más. Este proyecto implementa el frontend de la aplicación utilizando tecnologías modernas de desarrollo web.
